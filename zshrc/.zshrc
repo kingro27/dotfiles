@@ -84,3 +84,5 @@ alias kde='startplasma-wayland'
 # Shell integrations
 eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd cd zsh)"
+
+export PATH=$PATH:/home/River/.spicetify
